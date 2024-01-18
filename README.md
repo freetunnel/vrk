@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤ+B+Y+ㅤ+F+R+E+E+ +T+U+N+N+E+L+I+N+G+ +P+R+O+J+E+T+" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+FREE+TUNNELING+PROJECT" />
 </p>
 
 ### INSTALL SCRIPT 
